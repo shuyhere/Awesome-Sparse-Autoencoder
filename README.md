@@ -48,6 +48,7 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 ## Linear Representation Hypothesis
 * [The Linear Representation Hypothesis and the Geometry of Large Language](https://arxiv.org/abs/2406.11944)
 * [Not All Language Model Features Are Linear](https://arxiv.org/html/2405.14860v1)
+* [Actually, Othello-GPT Has A Linear Emergent World Representation ](https://www.neelnanda.io/mechanistic-interpretability/othello)
 
 ## Superposition
 
