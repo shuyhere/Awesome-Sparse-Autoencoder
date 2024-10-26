@@ -30,6 +30,11 @@ Collection of Reverse Engineering in Large Model (and Human Brain...)
   * Reinforcement Learning
   * Studying Learned Features in Language Models
 
+**Residual stream**
+
+* [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
+* [Exploring the Residual Stream of Transformers ](https://arxiv.org/html/2312.12141v1)
+
 **Hebbian theory**
 
 _"Neurons that fire together wire together."_(connect to the activations in neural network, [3B1B post](https://www.3blue1brown.com/lessons/backpropagation))
