@@ -64,7 +64,7 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 * [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
 * [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2406.04093)
   *   code https://arxiv.org/abs/2406.04093v1
-
+* [Decomposing The Dark Matter of Sparse Autoencoders](https://arxiv.org/abs/2410.14670) Current SAEs fall short of completely explaining model performance, resulting in "dark matter": unexplained variance in activations.
 ## Transcoders
 * [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/abs/2406.11944)
   * code https://github.com/jacobdunefsky/transcoder_circuits
@@ -80,8 +80,10 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 * [Evaluating Sparse Autoencoders with Board Games](https://adamkarvonen.github.io/machine_learning/2024/06/12/sae-board-game-eval.html)”
 * [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2406.04093)
 * [Automatically Interpreting Millions of Features in Large Language Models](https://arxiv.org/abs/2410.13928)
-* 
+
+
 ## Use Dictionary Learning to Interpret xx of Large Model
+
 
 **Knowledge conflict of LLM**
 [Steering Knowledge Selection Behaviours in LLMs via SAE-Based Representation Engineering](https://arxiv.org/abs/2410.15999)
