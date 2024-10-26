@@ -83,6 +83,8 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 ## Sparse Cross-coders
 “Crosscoders produce shared features across layers and even models.”
 
+"We can think of autoencoders and transcoders as special cases of the general family of crosscoders "
+
 [Sparse Crosscoders for Cross-Layer Features and Model Diffing.](https://transformer-circuits.pub/2024/crosscoders/index.html)
 
 ## Train Auto-explain and Evaluate
