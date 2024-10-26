@@ -9,6 +9,7 @@ Collection of Reverse Engineering in Large Model (and Human Brain...)
 "MI/mech int/mech interp/mechanistic interpretability: **The field of study of reverse engineering neural networks from the learned weights** down to human-interpretable algorithms. Analogous to reverse engineering a compiled program binary back to source code"
 
 **Features and Circuits**
+* [Visualizing Representations: Deep Learning and Human Beings](https://colah.github.io/posts/2015-01-Visualizing-Representations/) (Jan. 16, 2015)
 * [Feature visualization](https://distill.pub/2017/feature-visualization/) (Nov. 7, 2017)
   "**Feature visualization** answers questions about what a network or parts of a network are looking for by generating examples.
 
@@ -35,8 +36,20 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 
 [Hebbian theory](https://en.wikipedia.org/wiki/Hebbian_theory#:~:text=Hebbian%20theory%20is%20a%20neuropsychological,neurons%20during%20the%20learning%20process) is a neuropsychological theory claiming that an increase in synaptic efficacy arises from a presynaptic cell's repeated and persistent stimulation of a postsynaptic cell. It is an attempt to explain synaptic plasticity, the adaptation of brain neurons during the learning process. It was introduced by Donald Hebb in his 1949 book The Organization of Behavior.
 
+**Information, Entropy and KL divergence**
+
+[Elements of Information Theory ](http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf)by Thomas M. Cover
 
 ## Superposition
+
+* [Two kinds of superposition](https://dynalist.io/d/n2ZWtnoYHrU1s4vnFSAQ519J#z=BnAoM1vexv_R8gOkHsPo1LjK)
+  * Bottleneck superposition --used for “storage”.
+  * Neuron superposition --more features represented in neuron activation space than there are neurons.
+* [Softmax Linear Units](https://transformer-circuits.pub/2022/solu/index.html#section-3), "background on how to think about superposition".
+  * [Neuroscope: A Website for Mechanistic Interpretability of Language Models](https://neuroscope.io/)
+* [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html#computation)
+  * related code:
+    * [[1.3.1] in Transformer_lens doc : Superposition & Sparse Autoencoders](https://arena3-chapter1-transformer-interp.streamlit.app/%5B1.3.1%5D_Superposition_&_SAEs)
 
 ## Sparse Autoencoder
 
