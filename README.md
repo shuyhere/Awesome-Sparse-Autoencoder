@@ -63,18 +63,28 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 * [Sparse Autoencoders Find Highly Interpretable Model Directions](https://arxiv.org/abs/2309.08600)
 * [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
 * [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2406.04093)
+  *   code https://arxiv.org/abs/2406.04093v1
 
 ## Transcoders
 * [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/abs/2406.11944)
   * code https://github.com/jacobdunefsky/transcoder_circuits
+
 ## Sparse Cross-coders
 
 “Crosscoders produce shared features across layers and even models.”
 
 [Sparse Crosscoders for Cross-Layer Features and Model Diffing.](https://transformer-circuits.pub/2024/crosscoders/index.html)
 
-## Train and Evaluate
+## Train Auto-explain and Evaluate
+
 * [Evaluating Sparse Autoencoders with Board Games](https://adamkarvonen.github.io/machine_learning/2024/06/12/sae-board-game-eval.html)”
 * [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2406.04093)
-
+* [Automatically Interpreting Millions of Features in Large Language Models](https://arxiv.org/abs/2410.13928)
+* 
 ## Use Dictionary Learning to Interpret xx of Large Model
+
+**Knowledge conflict of LLM**
+[Steering Knowledge Selection Behaviours in LLMs via SAE-Based Representation Engineering](https://arxiv.org/abs/2410.15999)
+
+**Personality of LLM**
+[What makes your model a low-empathy or warmth person: Exploring the Origins of Personality in LLMs](https://arxiv.org/abs/2410.10863)
