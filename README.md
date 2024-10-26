@@ -65,12 +65,16 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 * [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2406.04093)
   *   code https://arxiv.org/abs/2406.04093v1
 * [Decomposing The Dark Matter of Sparse Autoencoders](https://arxiv.org/abs/2410.14670) Current SAEs fall short of completely explaining model performance, resulting in "dark matter": unexplained variance in activations.
+
+* Gated SAE [Improving Dictionary Learning with Gated Sparse Autoencoders](https://arxiv.org/abs/2404.16014)
+* Top-k SAE [Using a TopK activation function gets rid of the need for a sparsity penalty.]( https://arxiv.org/abs/2406.04093)
+ 
+
 ## Transcoders
 * [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/abs/2406.11944)
   * code https://github.com/jacobdunefsky/transcoder_circuits
 
 ## Sparse Cross-coders
-
 “Crosscoders produce shared features across layers and even models.”
 
 [Sparse Crosscoders for Cross-Layer Features and Model Diffing.](https://transformer-circuits.pub/2024/crosscoders/index.html)
@@ -81,9 +85,11 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 * [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2406.04093)
 * [Automatically Interpreting Millions of Features in Large Language Models](https://arxiv.org/abs/2410.13928)
 
+## Resource
+* [SAE Landscape](https://docs.google.com/document/d/1lHvRXJsbi41bNGZ_znGN7DmlLXITXyWyISan7Qx2y6s/edit?tab=t.0#heading=h.j9b3g3x1o1z4) – A collection of useful publications and tools
+* Neuronpedia https://www.neuronpedia.org/
 
 ## Use Dictionary Learning to Interpret xx of Large Model
-
 
 **Knowledge conflict of LLM**
 [Steering Knowledge Selection Behaviours in LLMs via SAE-Based Representation Engineering](https://arxiv.org/abs/2410.15999)
