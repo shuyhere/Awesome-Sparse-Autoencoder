@@ -1,7 +1,7 @@
 # Awesome-Sparse-Autoencoder
 Collection of Reverse Engineering in Large Model (and Human Brain...)
 
-## Basis Definitions
+## Basic Definitions
 
 **Mechanistic Interpretability** 
 
