@@ -92,7 +92,9 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 ## Use Dictionary Learning to Interpret xx of Large Model
 
 **Knowledge conflict of LLM**
-[Steering Knowledge Selection Behaviours in LLMs via SAE-Based Representation Engineering](https://arxiv.org/abs/2410.15999)
+
+* [Steering Knowledge Selection Behaviours in LLMs via SAE-Based Representation Engineering](https://arxiv.org/abs/2410.15999)
 
 **Personality of LLM**
-[What makes your model a low-empathy or warmth person: Exploring the Origins of Personality in LLMs](https://arxiv.org/abs/2410.10863)
+
+* [What makes your model a low-empathy or warmth person: Exploring the Origins of Personality in LLMs](https://arxiv.org/abs/2410.10863)
