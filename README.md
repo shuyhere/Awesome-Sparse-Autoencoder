@@ -11,4 +11,4 @@ Collection of Reverse Engineering in Large Model
 
 ## Train and Evaluate
 
-## Use Dictionary Learning to interpret Large Model
+## Use Dictionary Learning to Interpret Large Model
