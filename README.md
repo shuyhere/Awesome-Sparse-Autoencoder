@@ -40,6 +40,10 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 
 [Elements of Information Theory ](http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf)by Thomas M. Cover
 
+## Linear Representation Hypothesis
+* [The Linear Representation Hypothesis and the Geometry of Large Language](https://arxiv.org/abs/2406.11944)
+* [Not All Language Model Features Are Linear](https://arxiv.org/html/2405.14860v1)
+
 ## Superposition
 
 **Superposition**
@@ -61,7 +65,8 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 * [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2406.04093)
 
 ## Transcoders
-
+* [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/abs/2406.11944)
+  * code https://github.com/jacobdunefsky/transcoder_circuits
 ## Sparse Cross-coders
 
 “Crosscoders produce shared features across layers and even models.”
