@@ -85,6 +85,12 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 
 "We can think of autoencoders and transcoders as special cases of the general family of crosscoders "
 
+**open questions:**
+- Life circle of feature. How do features change over model training? When do they form? Do they form abruptly, or gradually grow? Do their directions drift over training, or have a relatively fixed direction from early on?
+- If we train a model twice, to what extent do we get the same features?
+- As we make a model wider, do we just get more features? Or are they largely the same features, packed less densely? Do some features get thrown away in favor of more useful features available to larger models?
+- To what extent do different architectures (eg. vision transformers vs conv nets) learn the same features?
+
 [Sparse Crosscoders for Cross-Layer Features and Model Diffing.](https://transformer-circuits.pub/2024/crosscoders/index.html)
 
 ## Train Auto-explain and Evaluate
@@ -98,7 +104,8 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 * Neuronpedia https://www.neuronpedia.org/
 
 ## Use Dictionary Learning to Interpret xx of Large Model
-
+**Social bias of LLM**
+* [Evaluating feature steering: A case study in mitigating social biases](https://www.anthropic.com/research/evaluating-feature-steering)
 **Knowledge conflict of LLM**
 
 * [Steering Knowledge Selection Behaviours in LLMs via SAE-Based Representation Engineering](https://arxiv.org/abs/2410.15999)
