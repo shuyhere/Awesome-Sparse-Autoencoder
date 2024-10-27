@@ -106,6 +106,7 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 ## Use Dictionary Learning to Interpret xx of Large Model
 **Social bias of LLM**
 * [Evaluating feature steering: A case study in mitigating social biases](https://www.anthropic.com/research/evaluating-feature-steering)
+
 **Knowledge conflict of LLM**
 
 * [Steering Knowledge Selection Behaviours in LLMs via SAE-Based Representation Engineering](https://arxiv.org/abs/2410.15999)
