@@ -74,7 +74,6 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 
 * Gated SAE [Improving Dictionary Learning with Gated Sparse Autoencoders](https://arxiv.org/abs/2404.16014)
 * Top-k SAE [Using a TopK activation function gets rid of the need for a sparsity penalty.]( https://arxiv.org/abs/2406.04093)
- 
 
 ## Transcoders
 * [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/abs/2406.11944)
@@ -87,6 +86,8 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 
 [Sparse Crosscoders for Cross-Layer Features and Model Diffing.](https://transformer-circuits.pub/2024/crosscoders/index.html)
 
+## Limitations and improvement
+Solution for **shrinkage**--how and why SAEs have a reconstruction gap due to ‘feature suppression’. [Addressing Feature Suppression in SAEs.](https://www.lesswrong.com/posts/3JuSjTZyMzaSeTxKk/addressing-feature-suppression-in-saes)
 ## Train Auto-explain and Evaluate
 
 * [Evaluating Sparse Autoencoders with Board Games](https://adamkarvonen.github.io/machine_learning/2024/06/12/sae-board-game-eval.html)”
