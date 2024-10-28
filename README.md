@@ -92,8 +92,12 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 
 [Sparse Crosscoders for Cross-Layer Features and Model Diffing.](https://transformer-circuits.pub/2024/crosscoders/index.html)
 
-## Limitations and improvement
+## Limitations / improvement
 Solution for **shrinkage**--how and why SAEs have a reconstruction gap due to ‘feature suppression’. [Addressing Feature Suppression in SAEs.](https://www.lesswrong.com/posts/3JuSjTZyMzaSeTxKk/addressing-feature-suppression-in-saes)
+
+**[Stitching SAEs of different sizes](https://www.lesswrong.com/posts/baJyjpktzmcmRfosq/stitching-saes-of-different-sizes)** When you scale up an SAE, the features in the larger SAE can be categorized in two groups: 1) “novel features” with new information not in the small SAE and 2) “reconstruction features” that sparsify information that already exists in the small SAE. You can stitch SAEs by adding the novel features to the smaller SAE.
+
+
 ## Train Auto-explain and Evaluate
 
 * [Evaluating Sparse Autoencoders with Board Games](https://adamkarvonen.github.io/machine_learning/2024/06/12/sae-board-game-eval.html)”
