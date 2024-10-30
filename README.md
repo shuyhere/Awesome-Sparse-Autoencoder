@@ -98,11 +98,19 @@ Solution for **shrinkage**--how and why SAEs have a reconstruction gap due to �
 **[Stitching SAEs of different sizes](https://www.lesswrong.com/posts/baJyjpktzmcmRfosq/stitching-saes-of-different-sizes)** When you scale up an SAE, the features in the larger SAE can be categorized in two groups: 1) “novel features” with new information not in the small SAE and 2) “reconstruction features” that sparsify information that already exists in the small SAE. You can stitch SAEs by adding the novel features to the smaller SAE.
 
 
-## Train Auto-explain and Evaluate
-
-* [Evaluating Sparse Autoencoders with Board Games](https://adamkarvonen.github.io/machine_learning/2024/06/12/sae-board-game-eval.html)”
+## Train, Auto-explain and Evaluate
+**SAE evaluation**
+* [Evaluating Sparse Autoencoders with Board Games](https://adamkarvonen.github.io/machine_learning/2024/06/12/sae-board-game-eval.html)
 * [Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2406.04093)
+
+**Auto-explain**
+* [Language models can explain neurons in language models](https://openai.com/index/language-models-can-explain-neurons-in-language-models/)
+* [Open Source Automated Interpretability for Sparse Autoencoder Features](https://blog.eleuther.ai/autointerp/) Building and evaluating an open-source pipeline for auto-interpretability, July 30, 2024 · Caden Juang, Gonçalo Paulo, Jacob Drori, Nora Belrose
 * [Automatically Interpreting Millions of Features in Large Language Models](https://arxiv.org/abs/2410.13928)
+* [Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models](https://arxiv.org/abs/2401.06102) use a target prompt comprised of fewshot demonstrations of string repetitions to encourage the LLM to explain its internal representation.
+
+**Steer evaluation**
+* [Evaluating feature steering: A case study in mitigating social biases](https://www.anthropic.com/research/evaluating-feature-steering)
 
 ## Resource
 * [SAE Landscape](https://docs.google.com/document/d/1lHvRXJsbi41bNGZ_znGN7DmlLXITXyWyISan7Qx2y6s/edit?tab=t.0#heading=h.j9b3g3x1o1z4) – A collection of useful publications and tools
