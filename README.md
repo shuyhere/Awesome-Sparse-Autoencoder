@@ -32,6 +32,7 @@ Collection of Reverse Engineering in Large Model (and Human Brain...)
 
 **Residual stream**
 
+* [Residual Flows for Invertible Generative Modeling](https://arxiv.org/abs/1906.02735)
 * [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 * [Exploring the Residual Stream of Transformers ](https://arxiv.org/html/2312.12141v1)
 
