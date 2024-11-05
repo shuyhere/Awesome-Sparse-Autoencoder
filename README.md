@@ -75,6 +75,7 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 
 * Gated SAE [Improving Dictionary Learning with Gated Sparse Autoencoders](https://arxiv.org/abs/2404.16014)
 * Top-k SAE [Using a TopK activation function gets rid of the need for a sparsity penalty.]( https://arxiv.org/abs/2406.04093)
+* Switch Sparse Autoencoders [Efficient Dictionary Learning with Switch Sparse Autoencoders](https://arxiv.org/abs/2410.08201#:~:text=Sparse%20autoencoders%20(SAEs)%20are%20a,width%2C%20posing%20a%20computational%20challenge.)
 
 ## Transcoders
 * [Transcoders Find Interpretable LLM Feature Circuits](https://arxiv.org/abs/2406.11944)
