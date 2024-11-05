@@ -92,8 +92,8 @@ _"Neurons that fire together wire together."_(connect to the activations in neur
 - As we make a model wider, do we just get more features? Or are they largely the same features, packed less densely? Do some features get thrown away in favor of more useful features available to larger models?
 - To what extent do different architectures (eg. vision transformers vs conv nets) learn the same features?
 
-[Sparse Crosscoders for Cross-Layer Features and Model Diffing.](https://transformer-circuits.pub/2024/crosscoders/index.html)
-
+* [Sparse Crosscoders for Cross-Layer Features and Model Diffing.](https://transformer-circuits.pub/2024/crosscoders/index.html)
+* [Residual Stream Analysis with Multi-Layer SAEs](https://arxiv.org/abs/2409.04185)
 ## Limitations / improvement
 Solution for **shrinkage**--how and why SAEs have a reconstruction gap due to ‘feature suppression’. [Addressing Feature Suppression in SAEs.](https://www.lesswrong.com/posts/3JuSjTZyMzaSeTxKk/addressing-feature-suppression-in-saes)
 
