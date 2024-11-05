@@ -129,3 +129,6 @@ Solution for **shrinkage**--how and why SAEs have a reconstruction gap due to â€
 **Personality of LLM**
 
 * [What makes your model a low-empathy or warmth person: Exploring the Origins of Personality in LLMs](https://arxiv.org/abs/2410.10863)
+
+**Protein Language Models**
+* [InterProt](https://github.com/etowahadams/interprot)
