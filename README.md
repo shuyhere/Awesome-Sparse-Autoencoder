@@ -29,7 +29,7 @@ Collection of Reverse Engineering in Large Model (and Human Brain...)
   * Image Model Interpretability
   * Reinforcement Learning
   * Studying Learned Features in Language Models
-
+* [200 Concrete Open Problems in Mechanistic Interpretability google document](https://docs.google.com/document/d/1WONBzNqfKIxERejrrPlQMyKqg7jSFW92x5UMXNrMdPo/edit?tab=t.0)
 **Residual stream -- how to understand a transformer**
 * [Residual Flows for Invertible Generative Modeling](https://arxiv.org/abs/1906.02735)
 * [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)  MLPs as key-value pairs.
